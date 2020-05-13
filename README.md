@@ -1,5 +1,5 @@
 # Text-Classification
-Used Transformers library (used for easy implementation of language models) and BERT for multi-label classication. Used transfer learning for training the model. Trained model on Google Colab using Tesla P100 GPU. 
+Used Transformers library (used for easy implementation of language models) and XLNET for multi-label classication. Used transfer learning for training the model. Trained model on Google Colab using Tesla P100 GPU. 
 
 
 ## Click here for the Colab notebook https://colab.research.google.com/drive/1YXojI6USFGV3498Pygllv0z8vTMVIiEt
